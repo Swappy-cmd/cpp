@@ -12,8 +12,5 @@ int main(){
     cout<<"bill\n total cost of all material:"<<total;
     gst=total*.18;
     cout<<"gst is:"<<gst<<"\ntotal bill with gst:"<<gst+total;
-
-    
-
     return 0;
 }
