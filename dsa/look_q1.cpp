@@ -27,7 +27,7 @@ using namespace std;
 //     return 0;
 // }
 
-//question 3
+//question 3 palindrome
 
 int main(){
     int num,original,rev=0;
